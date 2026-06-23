@@ -1,0 +1,70 @@
+# Jerseystars — Generative Engine Optimization Map
+
+> A landing page for a football (soccer) jerseys store, focused on selling football shirts. The business revolves around sports apparel, specifically football jerseys, appealing to football fans and enthusiasts.
+
+---
+
+## Pages
+
+### בית
+https://jerseystars-0a924b66.zappy5.app
+חנות החולצות המובילה לאוהדי כדורגל! גלו מגוון ענק של חולצות כדורגל מותאמות אישית, מחירים סיטונאיים והנחות בלעדיות. הצטרפו למועדון האלופים עוד היום.
+
+### תודה שפניתם | Jerseystars
+https://jerseystars-0a924b66.zappy5.app/thank-you
+Jerseystars - תודה שפניתם | Jerseystars
+
+## Legal & Policy
+
+### Privacy Policy
+https://jerseystars-0a924b66.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://jerseystars-0a924b66.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://jerseystars-0a924b66.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://jerseystars-0a924b66.zappy5.app
+- Endpoint: https://jerseystars-0a924b66.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Jerseystars
+A landing page for a football (soccer) jerseys store, focused on selling football shirts. The business revolves around sports apparel, specifically football jerseys, appealing to football fans and enthusiasts.
+
+## Target Audience
+- אוהדי כדורגל נלהבים
+- שחקני ספורט צעירים
+- תיירי ספורט בינלאומיים
+
+## Industry
+Sports Apparel
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://jerseystars-0a924b66.zappy5.app/sitemap.xml
+- Robots: https://jerseystars-0a924b66.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://jerseystars-0a924b66.zappy5.app/llms-full.txt
